@@ -3,4 +3,4 @@ Introduction to Redis Key-Value Store DB
 
 ## Final Project Created for Data Mining course.
 
-Presentation in the Redid-Final-Draft.zip folder.
+Final Presentation is in the Redis_Final_Draft.zip folder.
